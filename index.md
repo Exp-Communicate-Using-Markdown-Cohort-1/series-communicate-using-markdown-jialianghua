@@ -3,3 +3,8 @@
 ### this is a even smaller title
 
 ![Newport, Rhode Island](https://hips.hearstapps.com/hmg-prod/images/01-breakers-credit-david-gleeson-1651550879.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
